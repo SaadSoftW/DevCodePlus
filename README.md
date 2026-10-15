@@ -96,7 +96,9 @@ Billing is processed in SAR; USD is shown for reference. See
 [devcodeplus.com/pricing](https://devcodeplus.com/pricing) for current details.
 
 Subscriptions are **not automatically renewed**. Full refunds are available
-within **5 days** (and at any time if the software does not work) — see the
+within **5 days** (and at any time if the software does not work). If a service
+interruption on our side lasts more than 3 consecutive days, the subscription is
+extended by the outage length plus one week, at no cost — see the
 [Refund Policy](https://devcodeplus.com/refund),
 [Terms of Service](https://devcodeplus.com/terms) and
 [Privacy Policy](https://devcodeplus.com/privacy).
@@ -105,7 +107,7 @@ within **5 days** (and at any time if the software does not work) — see the
 
 - **Website** — [devcodeplus.com](https://devcodeplus.com)
 - **Bug reports & feature requests** — [open an issue](https://github.com/SaadSoftW/DevCodePlus/issues)
-- **Contact** — [devcodeplus.com](https://devcodeplus.com) (support link in the footer)
+- **Contact** — [devcodeplus.com/contact](https://devcodeplus.com/contact)
 
 ## License
 
@@ -170,12 +172,13 @@ application source code is not published here.
 - **Pro شهري** — ‎4.99$ / شهرًا
 - **Pro سنوي** — ‎49.99$ / سنة (بدل ‎99.99$)
 
-الخصم بالريال والدولار للاستدلال. لا يوجد **تجديد تلقائي**، والاسترجاع كامل خلال **5 أيام** (وأي وقت إن لم يعمل البرنامج) — راجع [سياسة الاسترجاع](https://devcodeplus.com/refund) و[شروط الاستخدام](https://devcodeplus.com/terms) و[سياسة الخصوصية](https://devcodeplus.com/privacy). التفاصيل على [devcodeplus.com/pricing](https://devcodeplus.com/pricing).
+الخصم بالريال والدولار للاستدلال. لا يوجد **تجديد تلقائي**، والاسترجاع كامل خلال **5 أيام** (وأي وقت إن لم يعمل البرنامج). وإذا استمر انقطاعٌ من عندنا أكثر من 3 أيام متصلة، يُمدَّد الاشتراك بمدة الانقطاع مضافًا إليها أسبوع كامل دون مقابل — راجع [سياسة الاسترجاع](https://devcodeplus.com/refund) و[شروط الاستخدام](https://devcodeplus.com/terms) و[سياسة الخصوصية](https://devcodeplus.com/privacy). التفاصيل على [devcodeplus.com/pricing](https://devcodeplus.com/pricing).
 
 ### الدعم
 
 - الموقع: [devcodeplus.com](https://devcodeplus.com)
 - البلاغات والاقتراحات: [Issues](https://github.com/SaadSoftW/DevCodePlus/issues)
+- التواصل: [devcodeplus.com/contact](https://devcodeplus.com/contact)
 
 ### الترخيص
 

@@ -88,13 +88,17 @@ Compare the output with the published hash **before** running any installer.
 
 ## Pricing
 
-DevCodePlus is a commercial product with a free trial.
-
-- **Monthly** — $4.99 / month
-- **Yearly** — $49.99 / year
+- **Free** — $0, core features forever
+- **Pro monthly** — $4.99 / month
+- **Pro yearly** — $49.99 / year (list $99.99)
 
 Billing is processed in SAR; USD is shown for reference. See
 [devcodeplus.com/pricing](https://devcodeplus.com/pricing) for current details.
+
+Subscriptions are **not automatically renewed**. Full refunds are available
+within 14 days — see the [Refund Policy](https://devcodeplus.com/refund),
+[Terms of Service](https://devcodeplus.com/terms) and
+[Privacy Policy](https://devcodeplus.com/privacy).
 
 ## Community & support
 
@@ -161,7 +165,11 @@ application source code is not published here.
 
 ### الأسعار
 
-منتج تجاري مع فترة تجربة مجانية: **‎4.99$ شهريًا** أو **‎49.99$ سنويًا** (الخصم بالريال، والدولار للاستدلال). التفاصيل على [devcodeplus.com/pricing](https://devcodeplus.com/pricing).
+- **مجاني** — ‎0$ (المزايا الأساسية دائمًا)
+- **Pro شهري** — ‎4.99$ / شهرًا
+- **Pro سنوي** — ‎49.99$ / سنة (بدل ‎99.99$)
+
+الخصم بالريال والدولار للاستدلال. لا يوجد **تجديد تلقائي**، والاسترجاع كامل خلال **14 يومًا** — راجع [سياسة الاسترجاع](https://devcodeplus.com/refund) و[شروط الاستخدام](https://devcodeplus.com/terms) و[سياسة الخصوصية](https://devcodeplus.com/privacy). التفاصيل على [devcodeplus.com/pricing](https://devcodeplus.com/pricing).
 
 ### الدعم
 

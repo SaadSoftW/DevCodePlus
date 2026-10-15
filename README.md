@@ -173,3 +173,5 @@ application source code is not published here.
 برنامج **مغلق المصدر**؛ راجع [LICENSE](LICENSE). هذا المستودع هو **قناة التحميل والتحديث الرسمية** فقط، والكود المصدري غير منشور هنا.
 
 </div>
+
+

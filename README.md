@@ -86,23 +86,6 @@ Get-FileHash .\DevCodePlus-Windows-Setup.exe -Algorithm SHA256
 
 Compare the output with the published hash **before** running any installer.
 
-## Pricing
-
-- **Free** — $0, core features forever
-- **Pro monthly** — $4.99 / month
-- **Pro yearly** — $49.99 / year (list $99.99)
-
-Billing is processed in SAR; USD is shown for reference. See
-[devcodeplus.com/pricing](https://devcodeplus.com/pricing) for current details.
-
-Subscriptions are **not automatically renewed**. Full refunds are available
-within **5 days** (and at any time if the software does not work). If a service
-interruption on our side lasts more than 3 consecutive days, the subscription is
-extended by the outage length plus one week, at no cost — see the
-[Refund Policy](https://devcodeplus.com/refund),
-[Terms of Service](https://devcodeplus.com/terms) and
-[Privacy Policy](https://devcodeplus.com/privacy).
-
 ## Community & support
 
 - **Website** — [devcodeplus.com](https://devcodeplus.com)
@@ -166,15 +149,7 @@ application source code is not published here.
 - القائمة الكاملة: **[sha256sums.txt](https://devcodeplus.com/downloads/sha256sums.txt)**
 - تحقّق من البصمة **قبل** تشغيل أي مثبّت.
 
-### الأسعار
-
-- **مجاني** — ‎0$ (المزايا الأساسية دائمًا)
-- **Pro شهري** — ‎4.99$ / شهرًا
-- **Pro سنوي** — ‎49.99$ / سنة (بدل ‎99.99$)
-
-الخصم بالريال والدولار للاستدلال. لا يوجد **تجديد تلقائي**، والاسترجاع كامل خلال **5 أيام** (وأي وقت إن لم يعمل البرنامج). وإذا استمر انقطاعٌ من عندنا أكثر من 3 أيام متصلة، يُمدَّد الاشتراك بمدة الانقطاع مضافًا إليها أسبوع كامل دون مقابل — راجع [سياسة الاسترجاع](https://devcodeplus.com/refund) و[شروط الاستخدام](https://devcodeplus.com/terms) و[سياسة الخصوصية](https://devcodeplus.com/privacy). التفاصيل على [devcodeplus.com/pricing](https://devcodeplus.com/pricing).
-
-### الدعم
+# الدعم
 
 - الموقع: [devcodeplus.com](https://devcodeplus.com)
 - البلاغات والاقتراحات: [Issues](https://github.com/SaadSoftW/DevCodePlus/issues)
